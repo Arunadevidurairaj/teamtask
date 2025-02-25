@@ -1,5 +1,3 @@
-add(){
-}
 
-subtract(){
-}
+mul(){}
+div(){}
